@@ -1,5 +1,4 @@
-# Hardening Servers - Un vistazo
-
+# Hardening Servers
 El propósito general es compartir conocimientos para obtener servidores optimizados de acuerdo a la función que se requiera.
 
 ### Linux Debian/Ubuntu
