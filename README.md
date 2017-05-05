@@ -1,4 +1,4 @@
-# Hardening Servers
+# Hardening Servers - Un vistazo
 
 El propósito general es compartir conocimientos para obtener servidores optimizados de acuerdo a la función que se requiera.
 
